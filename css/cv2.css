@@ -46,7 +46,7 @@ address{
     
 }
 
-figure.hover{
+figure:hover{
     cursor:zoom-in;
  }
 section{
