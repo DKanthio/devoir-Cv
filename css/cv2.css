@@ -46,7 +46,9 @@ address{
     
 }
 
-
+figure.hover{
+    cursor:zoom-in;
+ }
 section{
        flex-basis: 30%;
      align-items: flex-start;
